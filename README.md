@@ -12,6 +12,8 @@ Your users are in need of a system where they can enter expense reports. Expense
 For example, if someone went to a training seminar on 2/1/2019, their expenses for this may resemble: 
 
 Note: This is NOT a UI spec, this is for illustrative purposes:
+
+
 #-------------------------------------------
 Name: Training Seminar <br/>
 Date: 2/1/2019<br/>
@@ -25,6 +27,7 @@ Description: Seminar <br/>
 Amount: $99 <br/>
 Payee: Trainer's Inc. <br/>
 #-------------------------------------------
+
 
 Payee's should be tracked such that the user can select them from a list, not entered free-form. Ideally, the user can add a new Payee to this list.
 
