@@ -14,7 +14,7 @@ For example, if someone went to a training seminar on 2/1/2019, their expenses f
 Note: This is NOT a UI spec, this is for illustrative purposes: <br/>
 
 
-#-------------------------------------------
+#------------------------------------------- <br/>
 Name: Training Seminar <br/>
 Date: 2/1/2019<br/>
 
