@@ -11,7 +11,7 @@ You are to develop a small web application that allows a user enter expense info
 Your users are in need of a system where they can enter expense reports. Expense reports have a name (or purpose), a date, and one or more line items. 
 For example, if someone went to a training seminar on 2/1/2019, their expenses for this may resemble: 
 
-Note: This is NOT a UI spec, this is for illustrative purposes:
+Note: This is NOT a UI spec, this is for illustrative purposes: <br/>
 
 
 #-------------------------------------------
