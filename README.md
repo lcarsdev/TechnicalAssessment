@@ -1,11 +1,11 @@
 # Introduction 
-This Azure DevOps project is what you will use to submit your code for review. There is one Repo and that is where you will submit your code. 
+This repo is what you will use to submit your code for review. 
 The goal is for you to push your code to this repository so we can review it. 
 You may push code up here as early and often as you wish. The requirements for what you are to build are detailed below.
 The only people who will access this are Lehigh County team members. In other words, no other Candidates will have access to this project. 
 
 # Summary
-You are to develop a small web application that allows a user enter expense information. Your application should meet the minimum requirements explained below and should follow the architecture guidelines outlined.
+You are to develop a small web application that allows a user to enter expense information. Your application should meet the minimum requirements explained below and should follow the architecture guidelines outlined.
 
 # Application Requirements
 Your users are in need of a system where they can enter expense reports. Expense reports have a name (or purpose), a date, and one or more line items. 
@@ -37,10 +37,9 @@ Line items include description, amount, and the Payee. The user can also edit or
 # Application Architecture 
 The front end should be implemented as a web application. You are free to design the look and feel how you wish. 
 
-Data should be retrieved from and saved in an RDBMS (SQL). 
+Data should be retrieved from and saved in a database. 
 
-The UI should NOT communicate directly with the database. There should be a web service that reads and writes to the database and the UI should 
-make calls to the web service in order to read\write records. 
+The UI should NOT communicate directly with the database. There should be a web service that reads and writes to the database and the UI should make calls to the web service in order to read\write records. 
 
 All components, source code, etc. should be pushed to this repo. You may also include any documentation you would wish. 
 If you want to deploy a working version to a hosting environment for demonstration purposes, that is fine, but ALL SOURCE CODE must be in this Repo so we can review it.
@@ -55,7 +54,7 @@ Data has been provided in the files Expenses.json and Payees.csv. It is not requ
 If you are able to convert the data, the code and a general description of your approach is fine, there is no need to develop a user interface to "load" the data. 
 
 # Development Process 
-You may use this Azure DevOps project and its Board to create work items (User Stories, tasks, etc.) to document requirements, track your work, describe your approach, and report progress. 
+You may use this repo to create a project and a Kanban board to create work items (User Stories, tasks, etc.) to document requirements, track your work, describe your approach, and report progress. 
 
 # Evaluation
 We will evaluate submissions based on the following areas:
@@ -69,15 +68,14 @@ We will evaluate submissions based on the following areas:
 - Tip: Using the Board within this project to express Work Items (User Stories, tasks, etc.) that communicate your understanding of the requirements is very good way to ensure you meet them all. 
 
 # Communication
-There is a work item titled "Basic Communication Channel." You can find this by clicking Boards => Work items. 
-Again, you may add your own work items, but do *not* delete the "Basic Communication Channel." 
-We will have team members monitor this in order to respond to you in an organized fashion. 
-Note: Your questions should be more around *what* and not *how*. The *how* is for you to figure out. *What* is for when you need clarification on a requirement or submission guideline.
+Please use issues to communicate your questions, this helps us track conversations in orderly fashion and within context. 
+
+Note: Your questions should be more around *what* and less around *how*. The *how* is for you to figure out. *What* is for when you need clarification on a requirement or guideline.
 
 # Timeframe
 There is no deadline to complete this. 
 However, only candidates that summit a project here will be considered for the next step. Candidates will be evaluated on a rolling basis. 
 
 # Ready for review
-When you are ready for us to review your submission, in the "Basic Communication Channel" please put a note in the discussion that reads "My code is ready for review!" And move this item to the Done list. 
+When you are ready for us to review your submission, add an issue that reads "My code is ready for review!" 
 
