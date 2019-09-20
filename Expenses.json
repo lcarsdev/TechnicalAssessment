@@ -1,0 +1,381 @@
+﻿{
+  "Reports": [
+    {
+      "Report": "August Business Trip",
+      "Expenses": [
+        {
+          "Date": "8/1/19",
+          "Description": "Flight",
+          "Amount": "659",
+          "Payee": "United"
+        },
+        {
+          "Date": "8/5/19",
+          "Description": "Hotel",
+          "Amount": "1000",
+          "Payee": "Holiday Inn"
+        },
+        {
+          "Date": "8/1/19",
+          "Description": "Bag",
+          "Amount": "30",
+          "Payee": "United"
+        },
+        {
+          "Date": "8/1/19",
+          "Description": "Transportation",
+          "Amount": "12.98",
+          "Payee": "Uber"
+        }
+      ]
+    },
+    {
+      "Report": "Training",
+      "Expenses": [
+        {
+          "Date": "7/3/19",
+          "Description": "Seminar",
+          "Amount": "900",
+          "Payee": "Trainer's Inc"
+        }
+      ]
+    },
+    {
+      "Report": "Client Meeting",
+      "Expenses": [
+        {
+          "Date": "6/30/19",
+          "Description": "Lunch",
+          "Amount": "390.38",
+          "Payee": "Peter Luger"
+        },
+        {
+          "Date": "6/29/19",
+          "Description": "Presentation",
+          "Amount": "39.42",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.1",
+      "Expenses": [
+        {
+          "Date": "1/6/18",
+          "Description": "Pencil",
+          "Amount": "189.05",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "1/23/18",
+          "Description": "Binder",
+          "Amount": "999.5",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.2",
+      "Expenses": [
+        {
+          "Date": "2/9/18",
+          "Description": "Pencil",
+          "Amount": "179.64",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "2/26/18",
+          "Description": "Pen",
+          "Amount": "539.73",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.3",
+      "Expenses": [
+        {
+          "Date": "3/15/18",
+          "Description": "Pencil",
+          "Amount": "167.44",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.4",
+      "Expenses": [
+        {
+          "Date": "4/1/18",
+          "Description": "Binder",
+          "Amount": "299.4",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "4/18/18",
+          "Description": "Pencil",
+          "Amount": "149.25",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.5",
+      "Expenses": [
+        {
+          "Date": "5/5/18",
+          "Description": "Pencil",
+          "Amount": "449.1",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "5/22/18",
+          "Description": "Pencil",
+          "Amount": "63.68",
+          "Payee": "Office Depot"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.6",
+      "Expenses": [
+        {
+          "Date": "6/8/18",
+          "Description": "Binder",
+          "Amount": "539.4",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "6/25/18",
+          "Description": "Pencil",
+          "Amount": "449.1",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.7",
+      "Expenses": [
+        {
+          "Date": "7/12/18",
+          "Description": "Binder",
+          "Amount": "57.71",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "7/29/18",
+          "Description": "Binder",
+          "Amount": "1,619.19",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.8",
+      "Expenses": [
+        {
+          "Date": "8/15/18",
+          "Description": "Pencil",
+          "Amount": "174.65",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.9",
+      "Expenses": [
+        {
+          "Date": "9/1/18",
+          "Description": "Desk",
+          "Amount": "250",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "9/18/18",
+          "Description": "Pen Set",
+          "Amount": "255.84",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.10",
+      "Expenses": [
+        {
+          "Date": "10/5/18",
+          "Description": "Binder",
+          "Amount": "251.72",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "10/22/18",
+          "Description": "Pen",
+          "Amount": "575.36",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2018.11",
+      "Expenses": [
+        {
+          "Report": "Office Supplies - 2018.11",
+          "Date": "11/8/18",
+          "Description": "Pen",
+          "Amount": "299.85",
+          "Payee": "Staples"
+        },
+        {
+          "Report": "Office Supplies - 2018.11",
+          "Date": "11/25/18",
+          "Description": "Pen Set",
+          "Amount": "479.04",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "12/12/18",
+          "Description": "Pencil",
+          "Amount": "86.43",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "12/29/18",
+          "Description": "Pen Set",
+          "Amount": "1,183.26",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "1/15/19",
+          "Description": "Binder",
+          "Amount": "413.54",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "2/1/19",
+          "Description": "Binder",
+          "Amount": "1,305.00",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "2/18/19",
+          "Description": "Binder",
+          "Amount": "19.96",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "3/7/19",
+          "Description": "Binder",
+          "Amount": "139.93",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "3/24/19",
+          "Description": "Pen Set",
+          "Amount": "249.5",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "4/10/19",
+          "Description": "Pencil",
+          "Amount": "131.34",
+          "Payee": "Staples"
+        }
+      ]
+    },
+    {
+      "Report": "Office Supplies - 2019.4",
+      "Expenses": [
+        {
+          "Date": "4/27/19",
+          "Description": "Pen",
+          "Amount": "479.04",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "5/14/19",
+          "Description": "Pencil",
+          "Amount": "68.37",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "5/31/19",
+          "Description": "Binder",
+          "Amount": "719.2",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "6/17/19",
+          "Description": "Desk",
+          "Amount": "625",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "7/4/19",
+          "Description": "Pen Set",
+          "Amount": "309.38",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "7/21/19",
+          "Description": "Pen Set",
+          "Amount": "686.95",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "8/7/19",
+          "Description": "Pen Set",
+          "Amount": "1,005.90",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "8/24/19",
+          "Description": "Desk",
+          "Amount": "825",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "9/10/19",
+          "Description": "Pencil",
+          "Amount": "9.03",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "9/27/19",
+          "Description": "Pen",
+          "Amount": "151.24",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "10/14/19",
+          "Description": "Binder",
+          "Amount": "1,139.43",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "10/31/19",
+          "Description": "Pencil",
+          "Amount": "18.06",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "11/17/19",
+          "Description": "Binder",
+          "Amount": "54.89",
+          "Payee": "Office Depot"
+        },
+        {
+          "Date": "12/4/19",
+          "Description": "Binder",
+          "Amount": "1,879.06",
+          "Payee": "Staples"
+        },
+        {
+          "Date": "12/21/19",
+          "Description": "Binder",
+          "Amount": "139.72",
+          "Payee": "Staples"
+        }
+      ]
+    }
+  ]
+}
