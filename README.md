@@ -38,8 +38,8 @@ Two additional API methods are required.
 - GetPayeeExpenseTotal - A method that returns each Payee in the system and the total amount paid to that payee from all expense report line items
 - GetTop10LineItems - Returns the top 10 line items in the database with the greatest amount. This should return the Expense Report Name, Line item description, amount, date, and payee.  
 
-# Application Architecture 
-All components, source code, etc. should be pushed to this repo. You may also include any documentation you would wish. 
+# Source Code
+All components, source code, tests, etc. should be pushed to this repo. You may also include any documentation you would wish. 
 If you want to deploy a working version to a hosting environment for demonstration purposes, that is fine, but ALL SOURCE CODE must be in this Repo so we can review it.
 Ideally, with mimimal effort, we should be able to deploy and run the code ourselves. 
 
