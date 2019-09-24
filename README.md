@@ -45,7 +45,7 @@ Data should be retrieved from and saved in a database, such as a relational data
 # Source Code
 All components, source code, tests, etc. should be pushed to this repo. You may also include any documentation you would wish. 
 If you want to deploy a working version to a hosting environment for demonstration purposes, that is fine, but ALL SOURCE CODE must be in this Repo so we can review it.
-Ideally, with mimimal effort, we should be able to deploy and run the code ourselves. 
+Ideally, with minimal effort, we should be able to deploy and run the code ourselves. 
 
 # Technology
 There is no requirement to use a particular programming language or specific technology. Use whatever you feel you are best able to get the job done. 
