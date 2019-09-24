@@ -8,12 +8,11 @@ The only people who will access this are Lehigh County team members. In other wo
 You are to develop a web application that allows a user to enter expense information. Your application should meet the minimum requirements explained below and should follow the architecture guidelines outlined.
 
 # Application Requirements
-Your users are in need of a system where they can enter expense reports. Expense reports have a name and one or more line items. 
+Your users are in need of a system where they can enter expense reports. Expense reports have a name (or purpose), and one or more line items. 
+
 For example, if someone went to a training seminar on 2/1/2019, their expenses for this may resemble: 
 
-Note: This is NOT a UI spec, this is for illustrative purposes: <br/>
-
-
+*Note the format of this is for illustrative purposes only, the structure of the data is provided as a sample. 
 #------------------------------------------- <br/>
 Name: Training Seminar <br/>
 
@@ -43,7 +42,8 @@ The front end should be implemented as a web application. You are free to design
 
 Data should be retrieved from and saved in a database, such as a relational database system. 
 
-All components, source code, etc. should be pushed to this repo. You may also include any documentation you would wish. 
+# Source Code
+All components, source code, tests, etc. should be pushed to this repo. You may also include any documentation you would wish. 
 If you want to deploy a working version to a hosting environment for demonstration purposes, that is fine, but ALL SOURCE CODE must be in this Repo so we can review it.
 Ideally, with mimimal effort, we should be able to deploy and run the code ourselves. 
 
@@ -54,6 +54,7 @@ Tip: See the job posting for the technology we primarily use.
 # Data
 Data has been provided in the files Expenses.json. The data in Expenses.json should be converted into the database.
 You supply the code and a general description of your data conversion approach, there is no need to develop a user interface to "load" the data on demand. 
+
 
 # Development Process 
 You may use this repo to create a GitHub Project and a Kanban board to create work items to document requirements, track your work, describe your approach, and report progress. 
@@ -71,6 +72,7 @@ We will evaluate submissions based on the following areas:
 
 # Communication
 Please use issues to communicate your questions, this helps us track conversations in orderly fashion and within context. Questions are encouraged, just use the Issues section of github to communicate them. 
+
 
 # Timeframe
 There is no deadline to complete this. 
