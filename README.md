@@ -32,10 +32,10 @@ The basic flow for a user is to add a new Expense Report with a name and a date.
 Line items include description, amount, and the Payee. The user can also edit or delete the Expense Report. 
 
 # Business Rules
-Expense amounts must be greater than 0
-Description cannot be empty
-Payee cannot be empty
-Expense Report names must be unique
+Expense amounts must be greater than 0 <br/>
+Description cannot be empty <br/>
+Payee cannot be empty <br/>
+Expense Report names must be unique <br/>
 
 # Application Architecture 
 The front end should be implemented as a web application. You are free to design the look and feel how you wish. 
