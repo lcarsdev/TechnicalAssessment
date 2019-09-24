@@ -28,7 +28,7 @@ Payee: Trainer's Inc. <br/>
 Date: 2/3/2019<br/>
 #-------------------------------------------
 
-The basic flow for a user is to add a new Expense Report with a name and a date. For that Expense Report, the user can add, edit or delete, expense line items.
+The basic flow for a user is to add a new Expense Report with a name. For that Expense Report, the user can add, edit or delete, expense line items.
 Line items include description, amount, and the Payee. The user can also edit or delete the Expense Report. 
 
 # Business Rules
