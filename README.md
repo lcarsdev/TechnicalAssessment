@@ -71,7 +71,7 @@ We will evaluate submissions based on the following areas:
 - Tip: Using the Project Kanban Board within this project to track your work and  communicate your understanding of the requirements is very good way to ensure you meet the requirements. 
 
 # Communication
-Please use issues to communicate your questions, this helps us track conversations in orderly fashion and within context. Questions are encouraged, just use the Issues section of github to communicate them. 
+Please use GitHub Issues within this repo to communicate your questions, this helps us track conversations in orderly fashion and within context. Questions are encouraged, just use the Issues section of github to communicate them. 
 
 
 # Timeframe
